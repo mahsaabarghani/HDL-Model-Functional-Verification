@@ -17,7 +17,13 @@ A multi-phase hardware verification project for an SDRAM controller and its refe
 
 The goal of this project is to build a practical verification environment for an SDRAM controller connected to a bus-style interface. The design is exercised with deterministic and random scenarios, compared against an independent golden model, and analyzed using coverage and transaction-level logs.
 
-The Persian course title `درستی‌سنجی مدل‌های HDL` is translated here as **Functional Verification of HDL Models**.
+The Persian course title is shown below:
+
+<div dir="rtl" align="right">
+درستی‌سنجی مدل‌های HDL
+</div>
+
+It is translated here as **Functional Verification of HDL Models**.
 
 The repository contains the original project deliverables reorganized into clear English folders and file names. The source archives and PDFs on the original drive were preserved; only extracted copies were renamed for this repository.
 
