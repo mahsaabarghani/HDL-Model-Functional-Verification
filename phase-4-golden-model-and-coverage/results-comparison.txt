@@ -1,0 +1,8 @@
+Scenario 1: Time=175 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=00000000, HREADY=1
+Scenario 2: Time=225 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 3: Time=365 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 4: Time=415 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 4: Time=465 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 5: Time=515 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 6: Time=615 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 7: Time=715 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 | Golden HRDATA=00000000, HREADY=1

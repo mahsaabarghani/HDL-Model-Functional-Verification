@@ -1,0 +1,18 @@
+Scenario 1: Time: 176 | tb_HWRITE: 1 | tb_HWDATA: 9b75ac36 | tb_HREADY: 0 | tb_HRDATA: xxxxxxxx
+Scenario 2: Time: 236 | tb_HWRITE: 0 | tb_HREADY: 1 | tb_HRDATA: 9b75ac36
+Scenario 3: Time: 327 | tb_HWRITE: 0 | tb_HWDATA: 22568d44 | tb_HREADY: 0 | tb_HRDATA: 9b75ac36
+Scenario 4: Time: 386 | tb_HWRITE: 1 | tb_HWDATA: e8b2dad1 | tb_HREADY: 0 | tb_HRDATA: 22568d44
+Scenario 4: Time: 446 | tb_HWRITE: 1 | tb_HWDATA: 5c8e6fb9 | tb_HREADY: 0 | tb_HRDATA: 22568d44
+Scenario 5: Time: 506 | tb_HWRITE: 1 | tb_HREADY: 0 | tb_HRDATA: 22568d44
+Scenario 6: Time: 566 | tb_HWRITE: 0 | tb_HREADY: 0 | tb_HRDATA: 22568d44
+Scenario 7: Time: 626 | tb_HWRITE: 1 | tb_HREADY: 0 | Reset Triggered
+Scenario 0: Time: 676 | tb_HADDR: 00000002 | tb_HWDATA: 1ac90d35 | tb_HWRITE: 1 | tb_HREADY: 0 | tb_HRDATA: 22568d44
+Scenario 1: Time: 727 | tb_HADDR: 00000003 | tb_HWDATA: 2a78bf54 | tb_HWRITE: 0 | tb_HREADY: 1 | tb_HRDATA: 7163b1e2
+Scenario 2: Time: 778 | tb_HADDR: 00000001 | tb_HWDATA: 7b5399f6 | tb_HWRITE: 1 | tb_HREADY: 0 | tb_HRDATA: 7163b1e2
+Scenario 3: Time: 839 | tb_HADDR: 00000001 | tb_HWDATA: 55fb75ab | tb_HWRITE: 1 | tb_HREADY: 0 | tb_HRDATA: 7163b1e2
+Scenario 4: Time: 890 | tb_HADDR: 00000001 | tb_HWDATA: a095f241 | tb_HWRITE: 0 | tb_HREADY: 0 | tb_HRDATA: 7163b1e2
+Scenario 5: Time: 941 | tb_HADDR: 00000000 | tb_HWDATA: 4c686d98 | tb_HWRITE: 0 | tb_HREADY: 0 | tb_HRDATA: 55fb75ab
+Scenario 6: Time: 992 | tb_HADDR: 00000000 | tb_HWDATA: 6333fdc6 | tb_HWRITE: 0 | tb_HREADY: 0 | tb_HRDATA: 09d79913
+Scenario 7: Time: 1053 | tb_HADDR: 00000001 | tb_HWDATA: 10518120 | tb_HWRITE: 0 | tb_HREADY: 1 | tb_HRDATA: 55fb75ab
+Scenario 8: Time: 1104 | tb_HADDR: 00000000 | tb_HWDATA: c18d9483 | tb_HWRITE: 1 | tb_HREADY: 0 | tb_HRDATA: 55fb75ab
+Scenario 9: Time: 1165 | tb_HADDR: 00000002 | tb_HWDATA: 3bc49777 | tb_HWRITE: 0 | tb_HREADY: 1 | tb_HRDATA: 09d79913

@@ -1,0 +1,37 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: G:/uni/hdl/sdram/goldenmodel.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         9         9         0   100.00%
+    Conditions                       4         3         1    75.00%
+    FSM States                       3         3         0   100.00%
+    FSM Transitions                  4         4         0   100.00%
+    Statements                      19        19         0   100.00%
+
+=================================================================================
+=== File: G:/uni/hdl/sdram/sdram_controller.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        17        17         0   100.00%
+    Conditions                       4         3         1    75.00%
+    FSM States                      11        11         0   100.00%
+    FSM Transitions                 20        13         7    65.00%
+    Statements                      79        79         0   100.00%
+
+=================================================================================
+=== File: G:/uni/hdl/sdram/sdram_model.v
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        21        15         6    71.42%
+    Conditions                       3         3         0   100.00%
+    Expressions                      3         3         0   100.00%
+    Statements                      24        20         4    83.33%
+
+
+Total Coverage By File (code coverage only, filtered view): 89.43%
+

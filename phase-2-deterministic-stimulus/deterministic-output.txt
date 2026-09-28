@@ -1,0 +1,8 @@
+Scenario 1: Time: 176 | tb_HREADY: 0 | tb_HRDATA: xxxxxxxx
+Scenario 2: Time: 236 | tb_HREADY: 1 | tb_HRDATA: deadbeef
+Scenario 3: Time: 436 | tb_HREADY: 0 | tb_HRDATA: deadbeef
+Scenario 4: Time: 596 | tb_HREADY: 0 | tb_HRDATA: 55555555
+Scenario 4: Time: 656 | tb_HREADY: 0 | tb_HRDATA: 55555555
+Scenario 5: Time: 716 | tb_HREADY: 0 | tb_HRDATA: 55555555
+Scenario 6: Time: 886 | tb_HREADY: 0 | tb_HRDATA: 55555555
+Scenario 7: Time: 1055 | tb_HREADY: 0 | Reset Triggered

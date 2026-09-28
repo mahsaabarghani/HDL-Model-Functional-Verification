@@ -1,0 +1,17 @@
+Scenario 1: Time=176 | Mismatch: SDRAM HRDATA=xxxxxxxx, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 2: Time=236 | Match: HRDATA=9b75ac36, |tb_HWRITE: 0| HREADY=1
+Scenario 3: Time=327 | Mismatch: SDRAM HRDATA=9b75ac36, HREADY=0 |tb_HWRITE: 0| Golden HRDATA=xxxxxxxx, HREADY=0
+Scenario 4: Time=446 | Match: HRDATA=22568d44, |tb_HWRITE: 1| HREADY=0
+Scenario 5: Time=506 | Match: HRDATA=22568d44, |tb_HWRITE: 1| HREADY=0
+Scenario 6: Time=566 | Match: HRDATA=22568d44, |tb_HWRITE: 0| HREADY=0
+Scenario 7: Time=626 | Mismatch: SDRAM HRDATA=22568d44, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 0: Time=676 | Mismatch: SDRAM HRDATA=22568d44, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=xxxxxxxx, HREADY=0
+Scenario 1: Time=727 | Mismatch: SDRAM HRDATA=7163b1e2, HREADY=1 |tb_HWRITE: 0| Golden HRDATA=5c8e6fb9, HREADY=1
+Scenario 2: Time=778 | Mismatch: SDRAM HRDATA=7163b1e2, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=5c8e6fb9, HREADY=1
+Scenario 3: Time=839 | Mismatch: SDRAM HRDATA=7163b1e2, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 4: Time=890 | Mismatch: SDRAM HRDATA=7163b1e2, HREADY=0 |tb_HWRITE: 0| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 5: Time=941 | Mismatch: SDRAM HRDATA=55fb75ab, HREADY=0 |tb_HWRITE: 0| Golden HRDATA=55fb75ab, HREADY=1
+Scenario 6: Time=992 | Mismatch: SDRAM HRDATA=09d79913, HREADY=0 |tb_HWRITE: 0| Golden HRDATA=09d79913, HREADY=1
+Scenario 7: Time=1053 | Mismatch: SDRAM HRDATA=55fb75ab, HREADY=1 |tb_HWRITE: 0| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 8: Time=1104 | Mismatch: SDRAM HRDATA=55fb75ab, HREADY=0 |tb_HWRITE: 1| Golden HRDATA=xxxxxxxx, HREADY=1
+Scenario 9: Time=1165 | Mismatch: SDRAM HRDATA=09d79913, HREADY=1 |tb_HWRITE: 0| Golden HRDATA=xxxxxxxx, HREADY=1

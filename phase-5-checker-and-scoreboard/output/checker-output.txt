@@ -1,0 +1,17 @@
+Not Ready: Time 105 Address 00000000 Golden xxxxxxxx DUV xxxxxxxx
+Not Ready: Time 115 Address 00000000 Golden xxxxxxxx DUV xxxxxxxx
+Not Ready: Time 125 Address 00000000 Golden xxxxxxxx DUV xxxxxxxx
+OK: Time 245 Address 00000002 Golden 9b75ac36 DUV 9b75ac36
+OK: Time 385 Address 00000001 Golden 22568d44 DUV 22568d44
+Error: Time 735 Address 00000001 Golden 5c8e6fb9 DUV 7163b1e2
+OK: Time 905 Address 00000000 Golden 55fb75ab DUV 55fb75ab
+OK: Time 965 Address 00000000 Golden 09d79913 DUV 09d79913
+Not Ready: Time 1055 Address 00000000 Golden xxxxxxxx DUV 55fb75ab
+Not Ready: Time 1165 Address 00000002 Golden xxxxxxxx DUV 09d79913
+Error: Time 1225 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1285 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1345 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1405 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1465 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1525 Address 00000002 Golden 1ac90d35 DUV 09d79913
+Error: Time 1585 Address 00000002 Golden 1ac90d35 DUV 09d79913
